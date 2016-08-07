@@ -4,90 +4,20 @@
 
     
   <url>
-    <loc>http://tinylin.coding.io/2016/08/07/ssh-master/</loc>
-    <lastmod>2016-08-07T14:42:38.727Z</lastmod>
+    <loc>http://tinylin.coding.io/2016/08/07/hexo/</loc>
+    <lastmod>2016-08-07T14:57:39.347Z</lastmod>
     <data>
         <display>
-        <title>ssh_master</title>
-        <pubTime>2016-08-07T14:42:38.000Z</pubTime>
+        <title>hexo</title>
+        <pubTime>2016-08-07T14:53:54.000Z</pubTime>
         
+        <tag>hexo搭建</tag>
+         
          
            
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://tinylin.coding.io/2016/08/07/hahah/</loc>
-    <lastmod>2016-08-07T03:35:55.462Z</lastmod>
-    <data>
-        <display>
-        <title>hahah</title>
-        <pubTime>2016-08-07T03:35:55.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://tinylin.coding.io/2016/08/07/ssh-test-2/</loc>
-    <lastmod>2016-08-07T02:03:23.752Z</lastmod>
-    <data>
-        <display>
-        <title>ssh-test_2</title>
-        <pubTime>2016-08-07T02:03:23.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://tinylin.coding.io/2016/08/07/ssh-test/</loc>
-    <lastmod>2016-08-07T00:59:05.325Z</lastmod>
-    <data>
-        <display>
-        <title>ssh_test</title>
-        <pubTime>2016-08-07T00:59:05.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://tinylin.coding.io/2016/08/06/hello/</loc>
-    <lastmod>2016-08-06T15:34:50.486Z</lastmod>
-    <data>
-        <display>
-        <title>hello</title>
-        <pubTime>2016-08-06T15:34:50.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://tinylin.coding.io/2016/08/06/test/</loc>
-    <lastmod>2016-08-06T14:14:16.475Z</lastmod>
-    <data>
-        <display>
-        <title>test</title>
-        <pubTime>2016-08-06T14:14:16.000Z</pubTime>
-        
-         
-           
+             
+              <breadCrumb title="hexo" url="http://tinylin.coding.io/categories/hexo/"/>
+          
         </display>
     </data>
     </url>
